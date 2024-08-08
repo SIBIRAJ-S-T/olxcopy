@@ -1,0 +1,62 @@
+.auction-sell-container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.auction-sell-container h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.auction-sell-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.auction-sell-input, .auction-sell-textarea {
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fff;
+  width: 48%;
+}
+
+.auction-sell-input {
+  margin-right: 4%;
+}
+
+.auction-sell-input:last-of-type {
+  margin-right: 0;
+}
+
+.auction-sell-textarea {
+  width: 97%;
+  margin-top: 20px;
+  height: 120px;
+}
+
+.auction-sell-button {
+  padding: 12px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.auction-sell-button:hover {
+  background-color: #0056b3;
+}

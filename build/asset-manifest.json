@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skcetappstore/static/css/main.6dc858e2.css",
+    "main.js": "/skcetappstore/static/js/main.15a711e6.js",
+    "static/js/787.58fb6e43.chunk.js": "/skcetappstore/static/js/787.58fb6e43.chunk.js",
+    "index.html": "/skcetappstore/index.html",
+    "main.6dc858e2.css.map": "/skcetappstore/static/css/main.6dc858e2.css.map",
+    "main.15a711e6.js.map": "/skcetappstore/static/js/main.15a711e6.js.map",
+    "787.58fb6e43.chunk.js.map": "/skcetappstore/static/js/787.58fb6e43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dc858e2.css",
+    "static/js/main.15a711e6.js"
+  ]
+}
